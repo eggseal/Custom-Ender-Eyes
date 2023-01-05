@@ -1,0 +1,2 @@
+# Set to true to make the eyes of ender target the nearest stronghold
+target-strongholds: true
